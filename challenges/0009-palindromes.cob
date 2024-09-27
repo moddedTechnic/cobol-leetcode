@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. Fibonacci.
+       PROGRAM-ID. Palindromes.
 
        DATA DIVISION.
        WORKING-STORAGE SECTION.
